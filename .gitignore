@@ -31,3 +31,5 @@ credentials.json
 public/.well-known/apple-app-site-association
 public/.well-known/assetlinks.json
 eas-android.md
+
+.vscode
